@@ -226,7 +226,7 @@ namespace SMS
                 Adults.Add(new Organism(GenerateWTMale()));
             }
 
-            for (int i = 0; i < 30; i++)
+            for (int i = 0; i < 1; i++)
             {
                 Adults.Add(new Organism(Generate_DriveMale()));
             }

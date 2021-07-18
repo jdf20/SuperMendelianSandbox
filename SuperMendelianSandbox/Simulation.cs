@@ -23,7 +23,7 @@ namespace SMS
         public int PopulationCap = 200;
         public float Mortality = 0.1f;
         public int GlobalEggsPerFemale = 50;
-        public int Sample = 48;
+        public int Sample = 0;
 
         public bool ApplyIntervention = false;
         public int StartingNumberOfWTFemales = 250;

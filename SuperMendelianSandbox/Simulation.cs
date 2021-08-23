@@ -33,7 +33,7 @@ namespace SMS
         public int InterventionReleaseNumber = 125;
 
         string[] Track = {"RCD1R"};
-        //string[] Track = { "ZPG" };
+        string[] Track = { "ZPG" };
 
         /*------------------------------- The Simulation ---------------------------------------------*/
 
